@@ -7,6 +7,7 @@ My long-term goal is to move fully into cybersecurity and contribute to the defe
 🔧 What I’m Currently Working On
 
 Expanding my skills in Cybersecurity (network security, honeypots, threat detection)
+
 Working on projects involving Java, React, Python
 
 Studying advanced concepts in networking, penetration testing, and secure development
@@ -16,20 +17,29 @@ Studying advanced concepts in networking, penetration testing, and secure develo
 💻 Languages & Frameworks
 
 Java • Python • PHP
+
 JavaScript • TypeScript • React • React Native
+
 HTML • CSS
 
 🛡 Cybersecurity & Networking
 
 Kali Linux
+
 Wireshark
+
 Nmap
+
 Burp Suite
+
 Metasploit (beginner)
+
 Cisco Packet Tracer
 
 🗄 Databases
+
 MySQL
+
 Supabase
 
 ⚙ Other
