@@ -56,6 +56,6 @@ VS Code • IntelliJ IDEA
 
 Email: shadowkxge0@gmail.com
 
-LinkedIn: https://www.linkedin.com/in/yourprofile](https://www.linkedin.com/in/emmanouil-androulakis-a121b128a/
+LinkedIn: https://www.linkedin.com/in/emmanouil-androulakis-a121b128a/
 
 GitHub: https://github.com/AinKage
