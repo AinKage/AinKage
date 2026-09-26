@@ -1,71 +1,30 @@
-👋 About Me
+# Manos Androulakis
 
-Hi! I'm Manos, a Software Developer with a strong passion for Cybersecurity.
-I love building secure, efficient systems and exploring how technology can be protected from evolving threats.
-My long-term goal is to move fully into cybersecurity and contribute to the defense side of tech.
+Full-stack software developer with a strong, active focus on cybersecurity. I build things and I break things, and I think doing both makes me better at each.
 
-🔧 What I’m Currently Working On
+CS undergrad at the University of East London, finishing June 2026. On the dev side I work mainly in Python, TypeScript/React, Kotlin, and Rust. On the security side I'm deep in detection engineering, network security, and secure development practices.
 
-Expanding my skills in Cybersecurity (network security, honeypots, threat detection)
+## Currently working on
 
-Working on projects involving Java, React, Python
+- A **Sigma detection rule pack** for Windows credential-access techniques (T1003, T1110, T1078, T1555.003) — validated against a Zircolite/Splunk lab setup and wired into a GitHub Actions CI workflow so the rules actually get tested, not just written.
+- Filling in the networking and pentesting gaps I didn't get from coursework — Nmap, Burp Suite, Metasploit, that side of things.
+- **NEUROSCAN** — anomaly detection with RandomForest + IsolationForest + SHAP, FastAPI backend, Next.js dashboard. Still in progress.
 
-Studying advanced concepts in networking, penetration testing, and secure development
+## A few things I've built
 
+- **proofmark** — FastAPI credential issuance/verification service. Debugged real bcrypt/SQLite issues along the way, not just a tutorial clone.
+- Co-authored a peer-reviewed paper on the HeartHabit mHealth app, published in *Applied Sciences* (MDPI).
 
-🛠️ Tools & Technologies
-💻 Languages & Frameworks
+## Stack
 
-Java • Python • PHP
+Python · TypeScript/React · Kotlin · Rust (Tauri) · FastAPI · Supabase/SQL
 
-JavaScript • TypeScript • React • React Native
+## Security tooling
 
-HTML • CSS
+Kali Linux · Wireshark · Nmap · Burp Suite · Sigma / Zircolite · Cisco Packet Tracer
 
-🛡 Cybersecurity & Networking
+## Reach me
 
-Kali Linux
-
-Wireshark
-
-Nmap
-
-Burp Suite
-
-Metasploit (beginner)
-
-Cisco Packet Tracer
-
-🗄 Databases
-
-MySQL
-
-Supabase
-
-⚙ Other
-
-Git & GitHub
-
-VS Code • IntelliJ IDEA
-
-🎯 Fun Facts
-
-🕵️ I love understanding how systems break so I can build them stronger
-
-🔐 My favorite topics: network security, honeypots, OSINT, malware analysis
-
-🌒 Dark mode is not a preference… it’s a lifestyle
-
-🧠 I enjoy solving complex logic puzzles and debugging for “fun”
-
-☕ Coffee is my primary programming language
-
-🐱 I believe every developer needs a cat supervisor (optional but recommended)
-
-📬 How to Reach Me
-
-Email: shadowkxge0@gmail.com
-
-LinkedIn: https://www.linkedin.com/in/emmanouil-androulakis-a121b128a/
-
-GitHub: https://github.com/AinKage
+- GitHub: [AinKage](https://github.com/AinKage)
+- LinkedIn: [Linkedin](https://www.linkedin.com/in/emmanouil-androulakis-a121b128a/)
+- Email: shadowkxge0@gmail.com
